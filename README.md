@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 use command to run json server
 
-### `json-server --watch data/db.json
+### `json-server --watch data/db.json`
 
 then run
 
